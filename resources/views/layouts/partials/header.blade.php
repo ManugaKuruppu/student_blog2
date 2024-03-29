@@ -8,7 +8,7 @@
                 <li>
                     <a class="flex space-x-2 items-center hover:text-yellow-900 text-sm text-yellow-500"
                        href="http://127.0.0.1:8000">
-                        New Home
+                         New Home 2
                     </a>
                 </li>
 
